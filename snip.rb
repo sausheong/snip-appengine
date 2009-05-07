@@ -48,5 +48,5 @@ __END__
 %a{:href => 'http://blog.saush.com'}
   Chang Sau Sheong
 %br
-  %a{:href => 'http://github.com/sausheong/snip'}
+  %a{:href => 'http://github.com/sausheong/snip-appengine'}
     Full source code
