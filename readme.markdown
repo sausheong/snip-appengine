@@ -1,5 +1,6 @@
 #Clone TinyURL with 40 lines of Ruby code on Google AppEngine for Java
 http://blog.saush.com/2009/05/clone-tinyurl-with-40-lines-of-ruby-code-on-google-appengine-for-java/
+
 Amidst the wretched events that happened at work recently, I forgot about an interesting development in running apps on a cloud. Google AppEngine finally released Java support on the AppEngine platform (http://googleappengine.blogspot.com/2009/04/seriously-this-time-new-language-on-app.html). For those uninitiated, AppEngine is Google's cloud computing platform that allows developers to serve up applications on Google's infrastructure. When it was first released in April 2008, the only language supported was Python. Python is a great language but doesn't appeal to my inner Rubyist so it didn't catch my attention. Until now that is.
 
 While Java is no longer my language of choice nowadays, Ruby actually runs pretty well under JRuby with Java. And with the addition of the Java support for AppEngine, it became a lot more interesting. A few weeks back I wrote Snip, a TinyURL clone, in about 40 lines of Ruby code, and deployed it on Heroku. It seems like a good idea to take Snip out for a spin on the Google AppEngine for Java (GAE/J).
